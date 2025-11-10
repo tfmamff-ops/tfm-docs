@@ -12,7 +12,7 @@ docs/
 
 ├── Cuestionario_SUS_calidad.docx
 
-├── ERP_QAD_export.xlsx
+├── ERP_QAD_export.csv
 
 ├── Autorizacion Empresarial para uso de datos en TFM.docx
 
