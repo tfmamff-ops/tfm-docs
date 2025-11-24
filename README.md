@@ -16,7 +16,7 @@ docs/
 
 ├── Autorizacion Empresarial para uso de datos en TFM.docx
 
-└── Plantilla Informe Verificacion.docx
+└── Report.html
 
 
 Descripción de los archivos:
@@ -31,7 +31,7 @@ ERP_QAD_export.xlsx → Ejemplo de salida de sistema ERP con datos a ser precarg
 
 Autorizacion Empresarial para uso de datos en TFM.docx → Acuerdo firmado con la empresa colaboradora que regula el uso ético y restringido de los datos industriales utilizados durante el desarrollo del TFM.
 
-Plantilla Informe Verificacion.docx → Plantilla de formulario de verificacion que el sistema devualve al completar el proceso de validacion.
+Report.xml → Plantilla de formulario de verificacion que el sistema devualve al completar el proceso de validacion.
 
 Uso y confidencialidad
 
