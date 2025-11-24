@@ -16,7 +16,10 @@ docs/
 
 ├── Autorizacion Empresarial para uso de datos en TFM.docx
 
+├── Image_unavailable.png 
+
 └── Report.html
+
 
 
 Descripción de los archivos:
@@ -30,6 +33,8 @@ Cuestionario_SUS_calidad.docx → Formulario aplicado a lider de calidad evaluad
 ERP_QAD_export.xlsx → Ejemplo de salida de sistema ERP con datos a ser precargados en el sistema para el inico de la verificacion.
 
 Autorizacion Empresarial para uso de datos en TFM.docx → Acuerdo firmado con la empresa colaboradora que regula el uso ético y restringido de los datos industriales utilizados durante el desarrollo del TFM.
+
+Image_unavailable.png → Imagen utilizada en el reporte cuando la misma no se logra procesar o no es accesible.
 
 Report.xml → Plantilla de formulario de verificacion que el sistema devualve al completar el proceso de validacion.
 
