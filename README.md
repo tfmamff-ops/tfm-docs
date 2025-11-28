@@ -18,6 +18,10 @@ docs/
 
 ├── Image_unavailable.png 
 
+├── Informe_aceptado.pdf 
+
+├── Informe_rechazado.pdf
+
 └── Report.html
 
 
@@ -35,6 +39,10 @@ ERP_QAD_export.xlsx → Ejemplo de salida de sistema ERP con datos a ser precarg
 Autorizacion Empresarial para uso de datos en TFM.docx → Acuerdo firmado con la empresa colaboradora que regula el uso ético y restringido de los datos industriales utilizados durante el desarrollo del TFM.
 
 Image_unavailable.png → Imagen utilizada en el reporte cuando la misma no se logra procesar o no es accesible.
+
+Informe_aceptado.pdf  → Documento PDF ejemplo de salida del sistema con el informe detallado de los resultados el cual luego de validacion por parte del operario se acepta el resultado.
+
+Informe_rechazado.pdf → Documento PDF ejemplo de salida del sistema con el informe detallado de los resultados el cual luego de validacion por parte del operario no se acepta el resultado del sistema por inconsitencia con la validacion visual. Este documento se genera con una marca de agua indicando que es rechazado.
 
 Report.xml → Plantilla de formulario de verificacion que el sistema devualve al completar el proceso de validacion.
 
